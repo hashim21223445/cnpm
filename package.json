@@ -47,7 +47,7 @@
   "devDependencies": {
     "coffee": "5",
     "egg-bin": "6",
-    "eslint": "8",
+    "eslint": "9.26.0",
     "eslint-config-egg": "12",
     "git-contributor": "2"
   },
